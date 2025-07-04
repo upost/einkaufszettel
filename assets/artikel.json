@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Äpfel",
+        "img":"apple.jpg"
+    },
+    {
+        "name": "Bananen",
+        "img": "banana.jpg"
+    },
+    {
+        "name": "Orangen",
+        "img": "orange.jpg"
+    },
+    {
+        "name": "Paprika",
+        "img": "paprika.jpg"
+    },
+    {
+        "name": "Tomaten",
+        "img"   : "tomato.jpg"
+    },
+    {
+        "name": "Zwiebeln",
+        "img": "onion.jpg"
+    },
+    {
+        "name": "Kartoffeln",
+        "img": "potatoes.jpg"
+    },
+    {
+        "name": "Salat",
+        "img": "salad.jpg"
+    },
+    {
+       "name":  "Brot",
+       "img": "bread.jpg"
+    },
+    {
+        "name": "Zucker",
+        "img": "sugar.jpg"
+    },
+    {
+        "name": "Mehl",
+        "img": "flour.jpg"
+    },
+    {
+        "name": "Nudeln",
+        "img": "pasta.jpg"
+    },
+    {
+        "name": "Reis",
+        "img": "rice.jpg"
+    },
+    {
+        "name": "Butter",
+        "img": "butter.jpg"
+    },
+    {
+        "name": "Käse",
+        "img": "cheese.jpg" 
+    },
+    {
+        "name": "Milch",
+        "img": "milk.jpg"
+    },
+    {
+        "name": "Eier",
+        "img": "eggs.jpg"
+    },
+    {
+        "name": "Schokolade",
+        "img": "chocolate.jpg"
+    },
+    {
+        "name": "Bier",
+        "img": "beer.jpg"
+    },
+    {
+        "name": "Kaffee",
+        "img": "coffee.jpg"
+    },
+    {
+        "name": "Tee",
+        "img": "tea.jpg"
+    },
+    {
+        "name": "Kekse",
+        "img": "cookies.jpg"
+    }
+]
